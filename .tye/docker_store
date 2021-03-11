@@ -1,0 +1,5 @@
+{"container":"placement_ce1ce83e-b"}
+{"container":"frontend-proxy_112e3727-f"}
+{"container":"backend-proxy_6baa2a0c-a"}
+{"container":"frontend-dapr-proxy_a9a17b18-e"}
+{"container":"backend-dapr-proxy_b65ff0f5-7"}
