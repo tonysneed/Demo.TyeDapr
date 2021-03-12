@@ -8,7 +8,7 @@ name: demo.tyedapr
 extensions:
 - name: dapr
 services:
-- name: frontend
-  project: Frontend/Frontend.csproj
-- name: backend
-  project: Backend/Backend.csproj
+  - name: frontend
+    project: Frontend/Frontend.csproj
+  - name: backend
+    project: Backend/Backend.csproj
